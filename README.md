@@ -27,9 +27,12 @@ siri语音控制
 
 http://player.youku.com/player.php/sid/XMzM0NDgxMTQ1Mg==/v.swf
 
+http://v.youku.com/v_show/id_XMzM0NDgxMTQ1Mg==.html?spm=a2h3j.8428770.3416059.1
 
 alexa语音控制
 
 http://player.youku.com/player.php/sid/XMzQzMTkzMjc4NA==/v.swf
+
+http://v.youku.com/v_show/id_XMzQzMTkzMjc4NA==.html?spm=a2h3j.8428770.3416059.1
 
 
