@@ -23,17 +23,12 @@ done
 
 ### 三、演示视频
 
-siri控制
+siri语音控制
+
 http://player.youku.com/player.php/sid/XMzM0NDgxMTQ1Mg==/v.swf
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzM0NDgxMTQ1Mg==' frameborder=0 'allowfullscreen'></iframe>
 
-<embed src='http://player.youku.com/player.php/sid/XMzM0NDgxMTQ1Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-
-alexa控制
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzQzMTkzMjc4NA==' frameborder=0 'allowfullscreen'></iframe>
-
-<embed src='http://player.youku.com/player.php/sid/XMzQzMTkzMjc4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+alexa语音控制
 
 http://player.youku.com/player.php/sid/XMzQzMTkzMjc4NA==/v.swf
 
